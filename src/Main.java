@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         Order order = new Order(9);
         System.out.println(order);
-        //Need new func
+        //Fix func 
     }
 }
